@@ -41,11 +41,11 @@ return {
     background = {
         {
             source = {
-                File = "/Users/max/Desktop/arts and wp/golfing_picture_old.jpg"
+                File = "/Users/max/.config/wezterm/starship_blurred.jpg"
             },
             opacity = 1.0,
             hsb = {
-                brightness = 0.01,
+                brightness = 0.04,
                 saturation = 1.0,
             },
         },
